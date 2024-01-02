@@ -1,8 +1,8 @@
 /**
- *�s��Date.cpp�ɩһݭn���ܼơA�H�Ψ禡�ŧi�C
+ *存放Date.cpp檔所需要的變數，以及函式宣告。
  *
- * @author 			Your name here
- * @ID 				Your student ID here
+ * @author 			熊亮茵
+ * @ID 				B11505064
  * @Department 		Engineering Science and Ocean Engineering
  * @Affiliation 	National Taiwan University
  *
